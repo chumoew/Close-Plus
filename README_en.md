@@ -3,6 +3,7 @@
 [**中文**](README.md)
 
 </div>
+
 # Close
 
 **Close** is an Android ad blocking tool based on the Xposed framework, dedicated to providing an ad-free app browsing experience, aiming to optimize user experience and reduce interference. Please use it in the LSPosed framework environment.
