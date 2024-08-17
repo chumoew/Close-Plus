@@ -1,6 +1,6 @@
-# Close
+# Close+
 
-**Close** 是一个基于Xposed框架的Android广告屏蔽工具，致力于提供一个无广告的应用浏览体验，旨在优化用户体验并减少干扰。请在LSPosed框架环境中使用。
+**Close+** 是一个基于Xposed框架的Android广告屏蔽工具，致力于提供一个无广告的应用浏览体验，旨在优化用户体验并减少干扰。请在LSPosed框架环境中使用。
 
 Adlose的核心功能是阻止应用内的广告SDK初始化加载，并拦截应用广告请求以屏蔽广告。
 
@@ -17,7 +17,7 @@ Adlose的核心功能是阻止应用内的广告SDK初始化加载，并拦截�
 
 ## 支持的应用范围
 
-Close支持众多流行的Android应用，包括但不限于：
+Close+支持众多流行的Android应用，包括但不限于：
 
 - 视频播放应用
 - 阅读和新闻应用
@@ -27,7 +27,7 @@ Close支持众多流行的Android应用，包括但不限于：
 
 ## 广告SDK处理
 
-Close能够处理应用内包含以下在内的多种SDK类型：
+Close+能够处理应用内包含以下在内的多种SDK类型：
 
 - ADSuyiSdk Ads
 - AdScope
@@ -65,7 +65,7 @@ Close能够处理应用内包含以下在内的多种SDK类型：
 
 ## 使用指南
 
-在安装Close之前，请确保您的设备已经安装基于LSPosed核心的免Root Xposed框架的应用。
+在安装Close+之前，请确保您的设备已经安装基于LSPosed核心的免Root Xposed框架的应用。
 
 1. 下载并安装Close模块，或使用Root Xposed框架应用内置。
 2. 在免Root Xposed模块管理器中激活Close模块。
@@ -75,10 +75,10 @@ Close能够处理应用内包含以下在内的多种SDK类型：
 
 ## 如何贡献
 
-如果您对Close有改进建议，或发现Bug，欢迎通过Issues反馈。
+如果您对Close+有改进建议，或发现Bug，欢迎通过Issues反馈。
 
 
 ## 支持我们
 
-如果Close对您有帮助，请给予我们Star支持！这是我们持续改进的最大动力。
+如果Close+对您有帮助，请给予我们Star支持！这是我们持续改进的最大动力。
 
