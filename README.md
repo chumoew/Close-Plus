@@ -3,6 +3,7 @@
 [**English**](README_en.md)
 
 </div>
+
 # Close+
 
 **Close+** 是一个基于Xposed框架的Android广告屏蔽工具，致力于提供一个无广告的应用浏览体验，旨在优化用户体验并减少干扰。请在LSPosed框架环境中使用。
